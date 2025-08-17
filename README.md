@@ -8,7 +8,7 @@ Sou apaixonado por tecnologia, estudo Sistemas de Informação e tenho grande in
 
 🎮 Fã de games e cultura geek
 
-🐧 Usuário do Nobara como sistema operacional principal
+🐧 Usuário do Big Linux como sistema operacional principal
 
 😄 Pronomes: ele/dele
 

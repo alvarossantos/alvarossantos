@@ -1,5 +1,5 @@
 👋 Olá, eu sou o Álvaro Santos
-Sou apaixonado por tecnologia, estudo Sistemas de Informação e tenho grande interesse por desenvolvimento backend e inovação. Também adoro games e estou sempre em busca de novos conhecimentos, principalmente sobre Python e C++. Meu sistema operacional principal é o Cachy OS, mostrando meu interesse por sistemas Linux avançados.
+Sou apaixonado por tecnologia, estudo Sistemas de Informação e tenho grande interesse por desenvolvimento backend e inovação. Também adoro games e estou sempre em busca de novos conhecimentos, principalmente sobre Python e C++.
 
 🚀 Sobre mim
 🖥️ Estudante de Sistemas de Informação
